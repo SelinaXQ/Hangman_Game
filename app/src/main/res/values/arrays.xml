@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>HAMBURGER,FOOD</item>
+        <item>BEEF,MEAT</item>
+        <item>FOOTBALL,SPORTS</item>
+    </string-array>
+</resources>
